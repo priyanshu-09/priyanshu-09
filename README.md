@@ -36,7 +36,7 @@ Here are some ideas to get you started:
    </a>&nbsp;&nbsp;
 </p>
 
-<p align='center'><img align='center' src="https://github-readme-stats.vercel.app/api?username=priyanshu-09&show_icons=true&theme=gotham" alt="priyanshu-09" /></p>
+<p align='center'><img align='center' src="https://github-readme-stats.vercel.app/api?username=priyanshu-09&show_icons=true&theme=gotham&count_private=true" alt="priyanshu-09" /></p>
 
 <p align='center'>
   💻 My workspace<br/><br/>
