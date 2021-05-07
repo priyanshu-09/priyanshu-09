@@ -2,7 +2,7 @@
 <h2 align='center'> Hi 👋, I'm Priyanshu 👨‍💻</h2>
 
 
-<p align='center'><em>Sophomore at <a href="http://www.unb.br">Birla Institue of Technology and Science, Pilani </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="25"></br>Front-End Team Member at <a href="https://www.thoughtworks.com">Department of Visual Media </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"> 
+<p align='center'><em>Sophomore at <a href="https://www.bits-pilani.ac.in/">Birla Institue of Technology and Science, Pilani </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="25"></br>Front-End Team Member at <a href="https://www.linkedin.com/company/dvm-bitspilani/mycompany/">Department of Visual Media </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"> 
 </em></p>
 
 
