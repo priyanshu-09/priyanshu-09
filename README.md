@@ -7,7 +7,15 @@
 
 
 <!--
-**priyanshu-09/priyanshu-09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.### Hi there 👋 <img align='right' src="https://media.giphy.com/media/3ErmSXChvkv5u/giphy.gif" width="300">
+**priyanshu-09/priyanshu-09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.### Hi there 👋
+
+Sirius GIF 
+<img align='right' src="https://media.giphy.com/media/3ErmSXChvkv5u/giphy.gif" width="300">
+
+Github Link
+<a href="https://github.com/priyanshu-09">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>&nbsp;&nbsp;
 
 Here are some ideas to get you started:
 
@@ -31,9 +39,7 @@ Here are some ideas to get you started:
   <a href="https://instagram.com/damn_sirius">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
-  <a href="https://github.com/priyanshu-09">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-   </a>&nbsp;&nbsp;
+   
 </p>
 
 <p align='center'><img align='center' src="https://github-readme-stats.vercel.app/api?username=priyanshu-09&show_icons=true&theme=gotham&count_private=true" alt="priyanshu-09" /></p>
