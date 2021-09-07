@@ -2,7 +2,8 @@
 <h2 align='center'> Hi 👋, I'm Priyanshu 👨‍💻</h2>
 
 
-<p align='center'><em>Sophomore at <a href="https://www.bits-pilani.ac.in/">Birla Institue of Technology and Science, Pilani </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="25"></br>Front-End Team Member at <a href="https://www.linkedin.com/company/dvm-bitspilani/mycompany/">Department of Visual Media </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"> 
+<p align='center'><em>Junior at <a href="https://www.bits-pilani.ac.in/">Birla Institue of Technology and Science, Pilani </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="25"></br>Head at <a href="https://www.bits-dvm.org">Department of Visual Media - BITS Pilani </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"> 
+  </br> Former Member of <a href="http://bitsacm.acm.org/index.html">  ACM - BITS Pilani Student Chapter </a><img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="30"> 
 </em></p>
 
 
