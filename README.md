@@ -42,7 +42,14 @@ Here are some ideas to get you started:
    
 </p>
 
-<p align='center'><img align='center' src="https://github-readme-stats.vercel.app/api?username=priyanshu-09&show_icons=true&theme=gotham&count_private=true" alt="priyanshu-09" /></p>
+<p align="center">
+  <img align="center" src="https://img.shields.io/github/followers/priyanshu-09?style=social" />  
+  <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=priyanshu-09.visitor-badge" />
+</p>
+
+<p align='center'><img align='center' src="https://github-readme-stats.vercel.app/api?username=priyanshu-09&show_icons=true&theme=gotham&count_private=true" alt="priyanshu-09" />
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshu-09&theme=dark" /> 
+</p>
 
 <p align='center'>
   💻 My workspace<br/><br/>
@@ -69,3 +76,8 @@ Here are some ideas to get you started:
   <img src='https://img.shields.io/badge/React Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' />
   <img src='https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white' />
 </p>
+
+<!--
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=priyanshu-09&layout=compact&theme=dark" />  
+</p> -->
