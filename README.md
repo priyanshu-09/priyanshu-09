@@ -77,10 +77,10 @@ Here are some ideas to get you started:
   <img src='https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white' />
 </p>
 
-
+<!--
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=priyanshu-09&layout=compact&theme=dark" />  
-</p> 
+</p> -->
 <!--START_SECTION:waka-->
 
 ```text
