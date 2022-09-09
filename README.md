@@ -82,4 +82,18 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=priyanshu-09&layout=compact&theme=dark" />  
 </p> 
 <!--START_SECTION:waka-->
+
+```text
+From: 04 September 2022 - To: 08 September 2022
+
+Total Time: 10 hrs 59 mins
+
+TypeScript   10 hrs 5 mins   >>>>>>>>>>>>>>>>>>>>>>>--   91.91 %
+Groovy       34 mins         >------------------------   05.17 %
+JavaScript   17 mins         >------------------------   02.58 %
+XML          1 min           -------------------------   00.21 %
+JSON         0 secs          -------------------------   00.07 %
+Properties   0 secs          -------------------------   00.03 %
+```
+
 <!--END_SECTION:waka-->
