@@ -82,7 +82,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=priyanshu-09&layout=compact&theme=dark" />  
 </p> -->
 <!--START_SECTION:waka-->
-
+<!--
 ```text
 From: 04 September 2022 - To: 30 October 2022
 
@@ -95,5 +95,5 @@ Groovy       1 hr 19 mins    -------------------------   01.44 %
 Text         14 mins         -------------------------   00.26 %
 Other        11 mins         -------------------------   00.21 %
 ```
-
+-->
 <!--END_SECTION:waka-->
