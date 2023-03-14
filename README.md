@@ -86,15 +86,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 September 2022 - To: 12 March 2023
+From: 04 September 2022 - To: 13 March 2023
 
-Total Time: 166 hrs 25 mins
+Total Time: 176 hrs 15 mins
 
-TypeScript   73 hrs 32 mins  >>>>>>>>>>>--------------   44.18 %
-JavaScript   50 hrs 19 mins  >>>>>>>>-----------------   30.24 %
-CSS          36 hrs 16 mins  >>>>>--------------------   21.79 %
-Groovy       1 hr 43 mins    -------------------------   01.04 %
-Other        1 hr 25 mins    -------------------------   00.86 %
+TypeScript   82 hrs 19 mins  >>>>>>>>>>>>-------------   46.71 %
+JavaScript   50 hrs 19 mins  >>>>>>>------------------   28.56 %
+CSS          37 hrs 16 mins  >>>>>--------------------   21.15 %
+Groovy       1 hr 43 mins    -------------------------   00.98 %
+Other        1 hr 25 mins    -------------------------   00.81 %
 ```
 
 <!--END_SECTION:waka-->
