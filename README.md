@@ -86,7 +86,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 September 2022 - To: 04 May 2023
+From: 04 September 2022 - To: 05 May 2023
 
 Total Time: 207 hrs 5 mins
 
@@ -95,7 +95,6 @@ JavaScript   51 hrs 4 mins   >>>>>>-------------------   24.67 %
 CSS          43 hrs 35 mins  >>>>>--------------------   21.05 %
 Python       4 hrs 59 mins   >------------------------   02.41 %
 Groovy       1 hr 43 mins    -------------------------   00.83 %
-Other        1 hr 35 mins    -------------------------   00.77 %
 ```
 
 <!--END_SECTION:waka-->
