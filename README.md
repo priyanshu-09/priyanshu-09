@@ -86,14 +86,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 September 2022 - To: 06 May 2024
+From: 04 September 2022 - To: 07 May 2024
 
-Total Time: 744 hrs 17 mins
+Total Time: 747 hrs 43 mins
 
-TypeScript                 502 hrs 31 mins >>>>>>>>>>>>>>>>>--------   67.52 %
-JavaScript                 139 hrs 4 mins  >>>>>--------------------   18.69 %
-CSS                        54 hrs 33 mins  >>-----------------------   07.33 %
-Python                     26 hrs 1 min    >------------------------   03.50 %
+TypeScript                 502 hrs 31 mins >>>>>>>>>>>>>>>>>--------   67.21 %
+JavaScript                 139 hrs 4 mins  >>>>>--------------------   18.60 %
+CSS                        54 hrs 33 mins  >>-----------------------   07.30 %
+Python                     29 hrs 23 mins  >------------------------   03.93 %
 JSON                       5 hrs 44 mins   -------------------------   00.77 %
 ```
 
