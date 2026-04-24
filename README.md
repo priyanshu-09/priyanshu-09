@@ -79,22 +79,4 @@ Here are some ideas to get you started:
   
 </p>
 
-<!--
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=priyanshu-09&layout=compact&theme=dark" />  
-</p> -->
-<!--START_SECTION:waka-->
 
-```txt
-From: 04 September 2022 - To: 23 April 2026
-
-Total Time: 1,514 hrs 34 mins
-
-TypeScript                 1,084 hrs 37 mins     >>>>>>>>>>>>>>>>>>-------   71.61 %
-JavaScript                 179 hrs 28 mins       >>>----------------------   11.85 %
-CSS                        81 hrs 21 mins        >------------------------   05.37 %
-Python                     81 hrs 1 min          >------------------------   05.35 %
-JSON                       19 hrs 19 mins        -------------------------   01.28 %
-```
-
-<!--END_SECTION:waka-->
